@@ -1,5 +1,4 @@
-*A simple script for who delete your discord messages in 8 steps : 
-
+*A simple script that delete your discord messages in 8 steps :
 
 1-Recover your discord token, if you don't know how to do this, here is a tutorial: https://tutochain.com/recuperer-son-token-discord-manuelle/
 
