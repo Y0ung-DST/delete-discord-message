@@ -8,7 +8,7 @@
 
 4-Copy the ID of the last message sent by you in this discussion
 
-5-Paste it in the corn.js
+5-Paste it in the main.js
 
 6-Return to discord and press the F12 key, then on console
 
